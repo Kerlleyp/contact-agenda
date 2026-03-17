@@ -47,3 +47,9 @@ O projeto permite que o usuário gerencie seus contatos de forma eficiente: cria
 ![](./Agenda/assets/visualizacao-contato.png)
 
 ![](./Agenda/assets/delete-contato.png)
+
+## AUTOR
+
+---
+
+- [LinkedIn](https://www.linkedin.com/in/kerlley-pacheco)
