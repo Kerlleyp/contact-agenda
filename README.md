@@ -1,4 +1,4 @@
-# Gerenciador de Contatos 📒
+# Agenda de Contatos 📒
 
 [![PHP](https://img.shields.io/badge/PHP-7.4-blue?logo=php&logoColor=white)](https://www.php.net/)  
 [![MySQL](https://img.shields.io/badge/MySQL-8.0-blue?logo=mysql&logoColor=white)](https://www.mysql.com/)  
